@@ -1,5 +1,5 @@
 # Shared Learning Notes
 
-Hello world!
+* [Getting Started With Kubernetes](./K8s/GettingStartedWithKubernetes/1.Intro.md)
 
-https://github.com/tchapi/markdown-cheatsheet
+Markdown Cheatsheet: <https://github.com/tchapi/markdown-cheatsheet>
