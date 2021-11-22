@@ -8,6 +8,7 @@
   * [Synapse: Getting Started](Azure/Synapse/0.toc.md)
 * Java
   * [Gradle](Java/Gradle/0.toc.md)
+* [Scala](Scala/0.toc.md)
 * [OAuth 2.0](Auth/OAuth2.0/0.toc.md)
 * [Getting Started With Kubernetes](K8s/GettingStartedWithKubernetes/1.Intro.md)
 * [Swagger tools](Swagger/1.Intro.md)
