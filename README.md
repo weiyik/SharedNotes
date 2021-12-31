@@ -11,6 +11,7 @@
 * [Scala](Scala/0.toc.md)
 * [OAuth 2.0](Auth/OAuth2.0/0.toc.md)
 * [Getting Started With Kubernetes](K8s/GettingStartedWithKubernetes/1.Intro.md)
+* [Mongo](Java/mongo.md)
 * [Swagger tools](Swagger/1.Intro.md)
 
 Markdown Cheatsheet: <https://github.com/tchapi/markdown-cheatsheet>
