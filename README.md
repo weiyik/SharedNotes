@@ -1,6 +1,7 @@
 # Shared Learning Notes
 
-* [Java](Java/0.toc.md)
+* Java
+  * [Java FAQ](Java/faq.md)
   * [JVM](Java/JVM/0.toc.md)
   * [Gradle](Java/Gradle/0.toc.md)
   * [Swagger tools](Java/swagger.md)
