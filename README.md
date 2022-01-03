@@ -1,10 +1,10 @@
 # Shared Learning Notes
 
 * Java
-  * [Java FAQ](Java/faq.md)
   * [JVM](Java/JVM/0.toc.md)
   * [Gradle](Java/Gradle/0.toc.md)
   * [Swagger tools](Java/swagger.md)
+  * [Java FAQ](Java/faq.md)
 * Spark
 * Kafka
 * [Scala](Scala/0.toc.md)
