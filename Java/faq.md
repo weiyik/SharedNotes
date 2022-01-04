@@ -1,5 +1,6 @@
 # Java FAQ
 
+* <https://javaguide.cn/home/>
 * <https://github.com/rbmonster/learning-note>
 * <https://github.com/CyC2018/CS-Notes>
 * <https://github.com/AobingJava/JavaFamily>
