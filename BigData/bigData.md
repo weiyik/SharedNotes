@@ -25,7 +25,7 @@
    - Time, Clock, event order
    - Paxos
    - Raft, Zab
-   - Leader-election, Quorums, lease 
+   - Leader-election, Quorums, lease
    - Distributed Locks
    - Distributed Transaction
    - Distributed ID Generator
@@ -33,6 +33,20 @@
    - Protocols
    - I/O model: BIO/AIO/NIO
    - Netty
+     - Netty 三层网络架构：Reactor通信调度层、职责链PipeLine、业务逻辑处理层
+     - Netty 的线程调度模型
+     - Netty的核心组件:
+       - Channel
+       - EventLoop
+       - ChannelFuture
+       - EventLoopGroup
+       - ChannelHandler
+       - ChannelPipeLine
+       - ChannelHandlerContext
+     - ByteBuf
+     - TCP/IP粘包拆包
+     - 编/解码器
+     - 零拷贝、内存池设计
 8. Offline Computation
    - MapReduce
    - HDFS
@@ -40,11 +54,13 @@
    - Hive
    - Hbase
 9. Message Queue
-   - Kafka
-   - Pulsar
+   - [Kafka](Kafka.md)
+   - [Pulsar](Pulsar.md)
 10. Real-time Computation
     - Flink
-    - Spark
+      - Ali Course: https://developer.aliyun.com/learning/course/58
+      - https://flink-learning.org.cn/
+    - [Spark](Spark.md)
 11. Data Scheduling/Governance
     - Dolphin Scheduler
     - Data Governance
@@ -63,11 +79,11 @@
 14. Algorithm
     - Common algos: reverse order, topN, Bloom filter, dictionary tree
     - Common machine learning algos
-    - Algorithm engineering 
+    - Algorithm engineering
 15. Back-end
     - Spring
     - MyBatis
-    - Spring Boot
+    - Springboot
 16. Business
     - 技术选型
     - 成本控制

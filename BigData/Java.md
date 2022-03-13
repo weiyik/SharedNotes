@@ -16,7 +16,19 @@
 - Java 语言数据类型
 - Java 的自动类型转换，强制类型转换
 - Java 语言中的关键字：final、static、transient、instanceof、volatile、synchronized的底层原理
+  - transient：修饰字段，不会被序列化
 - Java 中常用的集合类的实现原理：ArrayList/LinkedList/Vector、SynchronizedList/Vector、HashMap/HashTable/ConcurrentHashMap互相的区别以及底层实现原理
+  - Vector: array-like, synchronized
+  - Collections.synchronizedList/synchronizedCollection/synchronizedSet ..., returns a synchronized (thread-safe) collection backed by the specified collection.
+    ```java
+      Collection c = Collections.synchronizedCollection(myCollection);
+        ...
+      synchronized (c) {
+          Iterator i = c.iterator(); // Must be in the synchronized block
+          while (i.hasNext())
+            foo(i.next());
+      }
+    ```
 - 枚举
 - IO
 - 反射
